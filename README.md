@@ -1,4 +1,4 @@
-# Site acessível sobre Conexão Esportes
+# Site acessível sobre o Conexão Esportes
 # Sobre
 Refatoração de um site implementando recursos de acessibilidade no html, css e JS.
 ## Recursos de acessibilidade
